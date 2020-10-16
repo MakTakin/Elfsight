@@ -1,5 +1,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+In the project i used React Hooks,React Router. I used styled components for the code stylization.
+
+
+You can see this project here: [Elfsight](https://esfilt-da169.web.app/)
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
